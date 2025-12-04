@@ -1,0 +1,11 @@
+{
+  "recomputation_communication_overlap": false,
+  "grad_matmul_communication_overlap": false,
+  "enable_communication_fusion": false,
+  "grad_computation_allreduce_overlap": false,
+  "computation_allgather_overlap": false,
+  "enable_concat_eliminate_opt": false,
+  "enable_begin_end_inline_opt": false,
+  "grad_fa_allgather_overlap": false,
+  "computation_communication_fusion_level": 0
+}

@@ -1,0 +1,64 @@
+# MindSpore ST目录Python文件统计
+
+**总Python文件数:     4348个**
+
+| 目录名 | Python文件数量 | 占比 |
+|--------|---------------|------|
+| fusion               |    12 |    .27% |
+| cluster              |     7 |    .16% |
+| hypercomplex         |     6 |    .13% |
+| rewrite              |    12 |    .27% |
+| tools                |    98 |   2.25% |
+| hardware             |     3 |    .06% |
+| mint                 |   106 |   2.43% |
+| probability          |    29 |    .66% |
+| nn                   |    68 |   1.56% |
+| heterogeneous        |     7 |    .16% |
+| optimizer            |    14 |    .32% |
+| collective_ops       |    64 |   1.47% |
+| high_availability    |     9 |    .20% |
+| optimizer_ex         |    12 |    .27% |
+| hal                  |    11 |    .25% |
+| dataset              |    46 |   1.05% |
+| dynamic_shape        |   149 |   3.42% |
+| pi_jit               |   263 |   6.04% |
+| runtime              |    43 |    .98% |
+| data_transfer        |     3 |    .06% |
+| utils                |     3 |    .06% |
+| numpy_native         |     7 |    .16% |
+| backend              |   111 |   2.55% |
+| mem_reuse            |     6 |    .13% |
+| high_grad            |     2 |    .04% |
+| auto_parallel        |    67 |   1.54% |
+| gnn                  |     9 |    .20% |
+| container            |     3 |    .06% |
+| scipy_st             |    12 |    .27% |
+| networks             |   169 |   3.88% |
+| common               |     4 |    .09% |
+| nontask_sink         |     2 |    .04% |
+| dataset_helper       |     2 |    .04% |
+| export_and_load      |    26 |    .59% |
+| amp                  |     1 |    .02% |
+| mix_precision        |     4 |    .09% |
+| mindrecord           |     1 |    .02% |
+| dfx                  |     1 |    .02% |
+| scripts              |     3 |    .06% |
+| train                |     9 |    .20% |
+| infer                |     2 |    .04% |
+| parameter            |     7 |    .16% |
+| mindscience          |    38 |    .87% |
+| ops                  |  1880 |  43.23% |
+| armour               |     2 |    .04% |
+| tensor               |   347 |   7.98% |
+| sparse               |     9 |    .20% |
+| graph_kernel         |   127 |   2.92% |
+| vmap                 |     2 |    .04% |
+| cpu_data_parallel    |     6 |    .13% |
+| custom               |    19 |    .43% |
+| compiler             |   365 |   8.39% |
+| broadcast            |     2 |    .04% |
+| graceful_exit        |     3 |    .06% |
+| pynative             |   125 |   2.87% |
+| golden_stick         |     1 |    .02% |
+| offload              |     2 |    .04% |
+| dataloader           |     6 |    .13% |
